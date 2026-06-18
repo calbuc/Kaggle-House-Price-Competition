@@ -30,7 +30,7 @@ My final submission placed in the top 43% as of time of submission.
 - seaborn
 
 ## Usage
-As per Kaggle's terms the dataset required is not included in the repository. To run the notebook locally you can download the dataset from the [competition page](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) and place the files in the working directory.
+As per Kaggle's terms the dataset required is not included in the repository. To run the notebook locally you can download the dataset from the [competition page](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) and place the files in the working directory.
 
 ## Kaggle Notebook
 My full notebook is also available on Kaggle [here](https://www.kaggle.com/code/callumbuchan/house-price-competition)
